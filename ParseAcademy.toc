@@ -2,7 +2,7 @@
 ## Title: ParseAcademy
 ## Notes: Quickly create ParseAcademy character links from player menus.
 ## Author: Maikon Camilo Gosch
-## Version: 1.1.0
+## Version: 1.1.1
 
 core.lua
 menu.lua
